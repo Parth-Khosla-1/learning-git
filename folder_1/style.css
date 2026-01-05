@@ -6,3 +6,6 @@ p{
     font-size: 30px;
     background-color: red;
 }
+.section_1{
+    display: flex;
+}
