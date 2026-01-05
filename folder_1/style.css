@@ -1,3 +1,8 @@
 p{
     color: hotpink;
 }
+.section_1>div{
+    color: aqua;
+    font-size: 30px;
+    background-color: red;
+}
