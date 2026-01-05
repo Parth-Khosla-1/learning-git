@@ -1,11 +1,17 @@
 p{
     color: hotpink;
 }
-.section_1>div{
+.A{
     color: aqua;
     font-size: 30px;
     background-color: red;
 }
 .section_1{
     display: flex;
+}
+
+.B{
+ color: green;
+    font-size: 30px;
+    background-color: rgb(0, 179, 255);
 }
